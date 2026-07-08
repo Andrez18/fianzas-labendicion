@@ -81,8 +81,8 @@ export function LoginForm() {
           <div className="flex size-12 items-center justify-center rounded-xl bg-primary text-primary-foreground">
             <Store className="size-6" />
           </div>
-          <h1 className="text-xl font-semibold text-balance">Préstamos Supermercado</h1>
-          <p className="text-sm text-muted-foreground text-pretty">Gestión de préstamos del supermercado</p>
+          <h1 className="text-xl font-semibold text-balance">Préstamos <b>La bendición</b></h1>
+          <p className="text-sm text-muted-foreground text-pretty">Gestión de préstamos del supermercado la bendición</p>
         </div>
 
         <div className="mb-4 grid grid-cols-2 gap-1 rounded-lg border bg-background p-1">

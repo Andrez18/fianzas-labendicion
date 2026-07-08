@@ -122,7 +122,7 @@ export function PwaInstallButton() {
             <div className="mx-auto mb-4 h-1 w-10 rounded-full bg-muted" />
             <h3 className="mb-2 text-base font-semibold">Instalar la app</h3>
             <p className="mb-3 text-sm text-muted-foreground">
-              Para instalar Préstamos en tu iPhone:
+              Para instalar Préstamos la bendición en tu iPhone:
             </p>
             <ol className="mb-4 space-y-2 text-sm text-muted-foreground">
               <li className="flex items-start gap-2">

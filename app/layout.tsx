@@ -17,7 +17,7 @@ export const metadata: Metadata = {
   appleWebApp: {
     capable: true,
     statusBarStyle: "default",
-    title: "Préstamos",
+    title: "Préstamos la bendición",
   },
   icons: {
     icon: "/icon.svg",
